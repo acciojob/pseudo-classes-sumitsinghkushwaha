@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	background-color:rgb(135, 206, 235)
+	background-color:rgb(135, 206, 235);
 }
 p:first-child{
 	color:white;
@@ -25,7 +25,7 @@ li:first-child{
 }
 li:last-child{
 	font-size:22px;
-	background-color:pink;
+/* 	background-color:pink; */
 }
 li:nth-child(3){
 	background-color:pink;
