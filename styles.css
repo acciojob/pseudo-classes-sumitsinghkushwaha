@@ -7,7 +7,7 @@ p:first-child{
 	background-color:black;
 }
 p:nth-child(2){
-	color:violet;
+	color:rgb(238, 130, 238);
 }
 p:last-child{
 	color:red;
@@ -25,7 +25,7 @@ li:first-child{
 }
 li:last-child{
 	font-size:22px;
-/* 	background-color:pink; */
+	background-color:rgb(238, 130, 238);
 }
 li:nth-child(3){
 	background-color:pink;
